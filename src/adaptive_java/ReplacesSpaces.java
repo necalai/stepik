@@ -2,7 +2,7 @@ package adaptive_java;
 
 import java.util.Scanner;
 
-public class ReplacesSpaceы {
+public class ReplacesSpaces {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String line = scanner.nextLine();
